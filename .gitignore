@@ -1,0 +1,4 @@
+# Claude-generated working docs (design notes, vision, decision records).
+# Public docs are hand-written; to publish one from here, un-ignore it
+# explicitly, e.g. `!docs/some-public-doc.md`.
+docs/
